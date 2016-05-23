@@ -19,3 +19,8 @@
 ![ screenshot](pic/pre-di.png)
 
 > โปรแกรม ATM ด้วยค่าต่างๆ จะเก็บไปที่ class ATM
+***
+
+## ข้อ 3 ย้ายตำแหน่งรูปจากการกดปุ่ม
+![ screenshot](pic/pre3.gif)
+> มี ปุ่ม up , down , left , right สามารถย้ายตำแหน่งรูปได้จากการกดปุ่ม
