@@ -29,6 +29,8 @@
 ![ screenshot](pic/pre3.gif)
 > มี ปุ่ม up , down , left , right สามารถย้ายตำแหน่งรูปได้จากการกดปุ่ม
 ***
+
+<br>
 ## ข้อ 4 search ข้อมูล จาก array
 ![ screenshot](pic/pre4.gif)
 > ใส่ค่าในช่อง แล้วกด ปุ่ม search โดยสามารถใส่ harry1 ถึง harry7 ได้ เมื่อใส่เสร็จจะแสดง
